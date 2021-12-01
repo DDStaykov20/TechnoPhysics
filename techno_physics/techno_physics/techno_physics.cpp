@@ -76,7 +76,7 @@ int main()
 		exit(0);
 	}
 
-	cout << endl;
+	/*cout << endl;
 
 	Menu(ChooseNumber);
 
@@ -84,5 +84,5 @@ int main()
 
 	Choice(ChooseNumber);
 
-	cout << endl;
+	cout << endl;*/
 }
