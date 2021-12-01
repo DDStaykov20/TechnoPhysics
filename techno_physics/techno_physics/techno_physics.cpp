@@ -3,54 +3,27 @@
 
 using namespace std;
 
-int Menu(int numberOfChoice)
+void Menu()
 {
 	cout << "Menu" << endl;
-	cout << "1) First topic" << endl;
-	cout << "2) Second topic" << endl;
-	cout << "3) Third topic" << endl;
-	cout << "4) Forth topic" << endl;
-	cout << "5) Exit" << endl;
-
-	return 0;
+	cout << "1) Mechanical motion and acceleration" << endl;
+	cout << "2) Principles of mechanics" << endl;
+	cout << "3) Mechanical work" << endl;
+	cout << "4) Pressure and Pascal's law" << endl;
 }
 
-int Choice(int choice)
+void firstTopic()
 {
-	cout << "Choose:" << endl;
-
-	cin >> choice;
-
 	cout << endl;
-
-	switch (choice)
-	{
-	case 1:
-		cout << "First Topic";
-		break;
-
-	case 2:
-		cout << "Second Topic";
-		break;
-	case 3:
-		cout << "Third Topic";
-		break;
-
-	case 4:
-		cout << "Fourth Topic";
-		break;
-
-	case 5:
-		cout << "Exit";
-		exit(0);
-		break;
-
-	default:
-		exit(0);
-		break;
-	}
-	return choice;
-}
+	cout << "\t\t" << "First Topic - Mechanical motion and acceleration" << endl;
+	cout << endl;
+	cout << endl;
+	cout << "|- - - - - - - - - - - - - - - " << endl;
+	cout << "|" << "\t\t" << "Definitions: " << endl;
+	cout << "|" << "Mechanical movement - every change in the relative position of bodies over time" << endl;
+	cout << "|" << "Acceleration - the physical quantity that the body becomes rapidly, which changes the speed of a body." << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _";
+} 
 
 int main()
 {
@@ -76,13 +49,24 @@ int main()
 		exit(0);
 	}
 
-	/*cout << endl;
+	cout << endl;
 
-	Menu(ChooseNumber);
+	Menu();
 
 	cout << endl;
 
-	Choice(ChooseNumber);
+	system("pause");
 
-	cout << endl;*/
+	system("cls");
+
+	for (int i = 1; i <= 4; i++)
+	{
+		switch (i)
+		{
+		case 1:
+			firstTopic();
+			break;
+			//to continue topics!!!
+		}
+	}
 }
