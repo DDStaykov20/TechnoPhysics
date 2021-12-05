@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\techno_physics",
-    "\\techno_physics\\techno_physics"
+    "\\Project",
+    "\\Project\\techno_physics",
+    "\\Project\\techno_physics\\techno_physics"
   ],
-  "SelectedNode": "\\techno_physics\\techno_physics\\techno_physics.cpp",
+  "SelectedNode": "\\Project\\techno_physics\\techno_physics\\techno_physics.cpp",
   "PreviewInSolutionExplorer": false
 }
