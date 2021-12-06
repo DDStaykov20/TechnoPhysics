@@ -5,11 +5,13 @@ using namespace std;
 
 void Menu()
 {
-	cout << "Menu" << endl;
-	cout << "1) Mechanical motion and acceleration" << endl;
-	cout << "2) Principles of mechanics" << endl;
-	cout << "3) Mechanical work" << endl;
-	cout << "4) Pressure and Pascal's law" << endl;
+	cout << "|- - - - - - - - -" << endl;
+	cout << "|" << "Menu" << endl;
+	cout << "|" << "1) Mechanical motion and acceleration" << endl;
+	cout << "|" << "2) Principles of mechanics" << endl;
+	cout << "|" << "3) Mechanical work" << endl;
+	cout << "|" << "4) Pressure and Pascal's law" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _" << endl;
 }
 
 char firstTopic(char symbol, char answer, char answer2)
@@ -87,8 +89,8 @@ char firstTopic(char symbol, char answer, char answer2)
 
 		if (answer == 'a')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 
 		cout << endl;
@@ -108,8 +110,8 @@ char firstTopic(char symbol, char answer, char answer2)
 
 		if (answer2 == 'b')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 	}
 	else
@@ -190,8 +192,8 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 
 		if (answer == 'b')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 
 		cout << endl;
@@ -211,8 +213,8 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 
 		if (answer2 == 'a')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 
 		cout << endl;
@@ -232,8 +234,8 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 
 		if (answer3 == 'c')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 	}
 	else
@@ -311,8 +313,8 @@ char thirdTopic(char symbol, char answer)
 
 		if (answer == 'a')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 	}
 	else
@@ -392,8 +394,8 @@ char fourthTopic(char symbol, char answer)
 
 		if (answer == 'c')
 		{
-			cout << "|" << "Correct answer!" << endl;
-			cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
+			cout << "Correct answer!" << endl;
+			cout << "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 		}
 	}
 	else
@@ -411,7 +413,12 @@ int main()
 	char answersTwo = 'f';
 	char answersThree = 'f';
 
-	cout << "Hello!" << endl;
+	cout << "|- - - - - - - - - - - - - - - - - - - - - -|" << endl;
+	cout << "|" << "\t" << "T e c h n o P h y s i c s"  << "           |" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|" << endl;
+
+	cout << endl;
+
 	cout << "Do you want to play? (Yes/No)" << endl;
 
 	while (YesOrNo != "Yes" and YesOrNo != "No")
