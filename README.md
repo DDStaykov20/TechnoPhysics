@@ -24,8 +24,8 @@ This application is intended to help students in the subject of physics. It cons
 
 ## Documentations and Presentation
 - [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/pkkostov18_codingburgas_bg/EcPByMuGL2FAuwLjmmpbwxMBJcPx_bi1SSLA5j-5XgzLxg?e=GUKY6y)
-- [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/pkkostov18_codingburgas_bg/EQLJpXWAEIZNnNh36k0JQ8wBlUSutooJoJ3G5i_WgWYmOA?e=25sWRg)
-- [Game testing](https://codingburgas-my.sharepoint.com/:w:/g/personal/pkkostov18_codingburgas_bg/EcPByMuGL2FAuwLjmmpbwxMBJcPx_bi1SSLA5j-5XgzLxg?e=GUKY6y)
+- [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/zsmihaleva20_codingburgas_bg/EX6DtHVtAxdJvWYon2CiwCUBvmpcVrSC33eYoJLwa5zwaQ?e=xmXcP1)
+- [Game testing](https://codingburgas-my.sharepoint.com/:x:/g/personal/zsmihaleva20_codingburgas_bg/EWbMV_YCqx5OkEHSrEVIqBMBEEmLZDLywSBbdOZiUwdQGw?e=2eu7Oy)
 
 ***
 ## How to add this application to your Visual studio and to test it
