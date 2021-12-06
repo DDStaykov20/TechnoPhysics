@@ -21,7 +21,7 @@ char firstTopic(char symbol, char answer, char answer2)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Definitions: " << endl;
 	cout << "|" << "Mechanical movement -> every change in the relative position of bodies over time" << endl;
 	cout << "|" << "Acceleration -> the physical quantity that the body becomes rapidly, which changes the speed of a body." << endl;
@@ -30,7 +30,7 @@ char firstTopic(char symbol, char answer, char answer2)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Formula: " << endl;
 	cout << "|" << "a = (v2 - v1) / (t2 - t1) [m/s2]" << endl;
 	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
@@ -53,7 +53,7 @@ char firstTopic(char symbol, char answer, char answer2)
 	cout << "|" << "b) a = (v2 - v1) / (t2 - t1)" << endl;
 	cout << "|" << "a = (10-4) / 4" << endl;
 	cout << "|" << "a = 1,5 m/s2" << endl;
-	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 
 	cout << endl;
 
@@ -127,7 +127,7 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Definitions: " << endl;
 	cout << "|" << "First principle of mechanics (Law of Inertia) -> Every body maintains its state of rest or of rectilinear uniform motion until external influence brings it out of this state" << endl;
 	cout << "|" << "Second principle of mechanics -> The acceleration of the body is directly proportional to the force of the forces applied to the body and is inversely proportional to the mass of the body" << endl;
@@ -137,7 +137,7 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Formulas: " << endl;
 	cout << "|" << "m (mass) = F / a [kg]" << endl;
 	cout << "|" << "F (force) = m.a [N]" << endl;
@@ -156,7 +156,7 @@ char secondTopic(char symbol, char answer, char answer2, char answer3)
 	cout << "|" << "a = F / m" << endl;
 	cout << "|" << "a = 10 / 2" << endl;
 	cout << "|" << "a = 5 m/s2" << endl;
-	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 
 	cout << endl;
 
@@ -251,7 +251,7 @@ char thirdTopic(char symbol, char answer)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Definition: " << endl;
 	cout << "|" << "Mechanical work -> Work of force directed in the direction of movement of the body" << endl;
 	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
@@ -259,7 +259,7 @@ char thirdTopic(char symbol, char answer)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Formulas: " << endl;
 	cout << "|" << "A = F.s [J] (when the force is directed in the direction of the body's movement)" << endl;
 	cout << "|" << "A = -F.s [J] (when the force is with the opposite direction of movement of the body)" << endl;
@@ -277,7 +277,7 @@ char thirdTopic(char symbol, char answer)
 	cout << "|" << "A = F * s" << endl;
 	cout << "|" << "A = 25 * 100" << endl;
 	cout << "|" << "A = 2500N = 2,5kN" << endl;
-	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 
 	cout << endl;
 
@@ -330,7 +330,7 @@ char fourthTopic(char symbol, char answer)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Definitions: " << endl;
 	cout << "|" << "Pressure -> The force of pressure on area" << endl;
 	cout << "|" << "Pascal's law -> the pressure applied to a liquid or gas closed in a container is transmitted unchanged at all points of the liquid or gas and on the walls of the container" << endl;
@@ -340,7 +340,7 @@ char fourthTopic(char symbol, char answer)
 	cout << endl;
 	cout << endl;
 
-	cout << "|- - - - - - - - - - - - - " << endl;
+	cout << "|- - - - - - - - - - - - - - - -" << endl;
 	cout << "|" << "\t\t" << "Formulas: " << endl;
 	cout << "|" << "p(Pressure) = F / s [kg/m3]" << endl;
 	cout << "|" << "Gains power with a hydraulic machine - F2 = (S2 / S1) * F1" << endl;
@@ -358,7 +358,7 @@ char fourthTopic(char symbol, char answer)
 	cout << "|" << "F2 = (S2 / S1) * F1" << endl;
 	cout << "|" << "F2 = 50 * 300" << endl;
 	cout << "|" << "F2 = 15 000N = 15kN" << endl;
-	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" << endl;
+	cout << "|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " << endl;
 
 	cout << endl;
 
@@ -366,7 +366,7 @@ char fourthTopic(char symbol, char answer)
 
 	cout << endl;
 
-	cout << "Do you want to practise your knowledge about mechanical work with questions? (Y/N)" << endl;
+	cout << "Do you want to practise your knowledge about pressure and Pascal's law with questions? (Y/N)" << endl;
 
 	while (symbol != 'Y' and symbol != 'N')
 	{
@@ -548,5 +548,25 @@ int main()
 			}
 			break;
 		}
+	}
+
+	cout << "This was the end! Do you want to start again? (Yes/No)" << endl;
+
+	cin >> YesOrNo;
+
+	while (YesOrNo != "Yes" and YesOrNo != "No")
+	{
+		cin >> YesOrNo;
+	}
+
+	if (YesOrNo == "Yes")
+	{
+		system("cls");
+		main();
+	}
+	else
+	{
+		cout << "Ok! Goodbye!";
+		exit(0);
 	}
 }
