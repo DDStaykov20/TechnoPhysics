@@ -23,7 +23,7 @@ This application is intended to help students in the subject of physics. It cons
 - Toni Chodzhorova (Q&A engineer)
 
 ## Documentations and Presentation
-- [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/pkkostov18_codingburgas_bg/EcPByMuGL2FAuwLjmmpbwxMBJcPx_bi1SSLA5j-5XgzLxg?e=GUKY6y)
+- [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/zsmihaleva20_codingburgas_bg/EcZk17TTh0VOqpcEql7rFJgB7LtMwSq1a5erWwwrpJUXVQ?e=XpgpDv)
 - [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/zsmihaleva20_codingburgas_bg/EX6DtHVtAxdJvWYon2CiwCUBvmpcVrSC33eYoJLwa5zwaQ?e=xmXcP1)
 - [Game testing](https://codingburgas-my.sharepoint.com/:x:/g/personal/zsmihaleva20_codingburgas_bg/EWbMV_YCqx5OkEHSrEVIqBMBEEmLZDLywSBbdOZiUwdQGw?e=2eu7Oy)
 
